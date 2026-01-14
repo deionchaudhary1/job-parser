@@ -1,4 +1,4 @@
-# oaf-psd-bootcamp
+# Job Parser
 This repository will store my assignments for the OAF Bootcamp
 
 # Motivation
